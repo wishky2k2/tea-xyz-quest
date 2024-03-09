@@ -1,0 +1,9 @@
+{
+  "name": "@wishky2k2_npm/tea-xyz-quest",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@wishky2k2_npm",
+  "repository": "https://github.com/wishky2k2/tea-xyz-quest.git",
+  "license": "ISC"
+}
